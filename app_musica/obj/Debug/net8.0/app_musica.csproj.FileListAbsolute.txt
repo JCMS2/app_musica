@@ -1,0 +1,14 @@
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\bin\Debug\net8.0\app_musica.exe
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\bin\Debug\net8.0\app_musica.deps.json
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\bin\Debug\net8.0\app_musica.runtimeconfig.json
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\bin\Debug\net8.0\app_musica.dll
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\bin\Debug\net8.0\app_musica.pdb
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.AssemblyInfoInputs.cache
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.AssemblyInfo.cs
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.csproj.CoreCompileInputs.cache
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.dll
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\refint\app_musica.dll
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.pdb
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\app_musica.genruntimeconfig.cache
+C:\Users\Moura\Desktop\C#\app_musica\app_musica\obj\Debug\net8.0\ref\app_musica.dll
